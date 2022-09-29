@@ -110,3 +110,13 @@ img {
   max-width: 300px;
   margin: 30px auto;
 }
+.list {
+  list-style: none;
+  display: block;
+  margin: 0 auto 30px auto;
+  max-width: 420px;
+}
+span {
+  color: #6290c8;
+  padding: 10px;
+}
