@@ -42,12 +42,11 @@ body {
 }
 .nav {
   display: block;
-  max-width: 580px;
+  max-width: 204px;
   margin: 0 auto;
 }
 .nav__list {
   list-style: none;
-  padding: 0 13px;
 }
 .nav__item {
   display: inline-block;
